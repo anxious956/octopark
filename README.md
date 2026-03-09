@@ -1,2 +1,2 @@
-# octopark
+# OctoLot
 park.octoman.io
